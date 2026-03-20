@@ -101,6 +101,4 @@ More accurate labels would be:
 ## License
 
 Educational and personal use.
-# Bubble_Sort_With_Python_2
-# Bubble_Sort_With_Python_2
-# Bubble_Sort_With_Python_2
+
